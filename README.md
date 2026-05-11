@@ -43,12 +43,3 @@ This project is an interactive Coffee Shop Sales Dashboard built using Tableau a
 The dashboard helps understand customer purchasing behavior, peak sales periods, and revenue trends across different categories and locations. It supports data-driven business decision-making through interactive visualizations.
 
 ---
-
-## 📷 Dashboard Preview
-(Add your dashboard screenshot here)
-
----
-
-## 👩‍💻 Author
-Nidhi Mandloi  
-Aspiring Data Analyst
